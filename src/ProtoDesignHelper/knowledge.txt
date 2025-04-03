@@ -1,0 +1,5 @@
+The capital of France is Paris.
+ML.NET is a cross-platform, open-source machine learning framework.
+C# is a powerful programming language.
+The earth revolves around the sun.
+Water boils at 100 degrees Celsius.

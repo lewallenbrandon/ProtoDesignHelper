@@ -1,0 +1,4 @@
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-03-21 20:36:06
+Current User's Login: lewallenbrandon
+
+Here is an example of a message
